@@ -3,11 +3,16 @@ Domain Description: A simple Spring Boot application to manage Discord-like chat
 
 Operations:
 
-Add New Users
-Send a New Message
-Add a Reaction
-Fetch User's Message History
-Create a New Channel
+1. Add New Users
+   
+2. Send a New Message
+
+3. Add a Reaction
+ 
+4. Fetch User's Message History
+   
+5. Create a New Channel
+
 
 Video Presentation:
 
